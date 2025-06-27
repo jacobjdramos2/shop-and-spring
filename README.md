@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Storefront - Capstone 3
 
-This is a full-stack Java-based E-Commerce application built as part of the Year Up Software Development curriculum. It features a **Spring Boot** RESTful API backend and a **JavaScript (vanilla/ES6)** frontend to simulate an online store with product browsing, user authentication, admin management, and shopping functionality.
+This is a full-stack Java-based E-Commerce application. It features a **Spring Boot** RESTful API backend and a **JavaScript** frontend to simulate an online store with product browsing, user authentication, admin management, and shopping functionality.
 
 ---
 
