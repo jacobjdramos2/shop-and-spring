@@ -42,3 +42,9 @@ This is a full-stack Java-based E-Commerce application. It features a **Spring B
 | API Client       | Postman                    |
 
 ---
+## Pictures
+<img width="1512" alt="Screenshot 2025-06-27 at 7 08 04 AM" src="https://github.com/user-attachments/assets/0c140103-8270-47be-b706-55d6ee9b9351" />
+
+<img width="1512" alt="Screenshot 2025-06-05 at 3 31 55 PM" src="https://github.com/user-attachments/assets/7185f3df-6b23-4e38-a2ff-83d43b0a4753" />
+
+<img width="1512" alt="Screenshot 2025-06-27 at 7 08 04 AM" src="https://github.com/user-attachments/assets/f2f7e789-2744-4aa1-9b9c-fd06ceb44cb6" />
