@@ -43,8 +43,6 @@ This is a full-stack Java-based E-Commerce application. It features a **Spring B
 
 ---
 ## Pictures
-<img width="1512" alt="Screenshot 2025-05-23 at 9 41 57 AM" src="https://github.com/user-attachments/assets/97af0331-06dd-4f5d-a74e-f7a091cec2e2" />
-
 <img width="1512" alt="Screenshot 2025-06-27 at 7 10 55 AM" src="https://github.com/user-attachments/assets/bedea5bd-13a5-4a30-bbec-0b2502143ab1" />
 
 <img width="1512" alt="Screenshot 2025-06-27 at 7 10 59 AM" src="https://github.com/user-attachments/assets/36c35a45-1625-4b1b-bb22-4d1ab4b65727" />
